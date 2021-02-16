@@ -73,6 +73,7 @@ div .presentation-button {
 
   font-size: 2rem;
 
+  cursor: pointer;
   background-color: rgb(148, 212, 180);
 }
 
@@ -124,10 +125,21 @@ div .presentation-button {
   max-width: 1000px;
   margin: 0 auto;
   font-size: 1.4rem;
+  display: grid;
+  justify-self: center;
+  justify-content: center;
+}
+
+.select-day > p {
+  text-align: center;
 }
 
 .flex {
   display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 .change-day {
@@ -170,7 +182,7 @@ footer {
 
     display: grid;
     grid-template-columns: 100vw;
-    grid-template-rows: 10% 1fr 5%;
+    grid-template-rows: 10% 100% 10%;
   }
   #presentation {
     margin: 0 40px;
@@ -196,6 +208,6 @@ footer {
   }
 
   .display-grid {
-    grid-template-rows: 10% 80% 5%;
+    grid-template-rows: 10% 120% 5%;
   }
 }
