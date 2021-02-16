@@ -53,7 +53,6 @@ header {
 }
 
 .presentation-p {
-  margin: 25px 0;
   max-width: 600px;
 
   font-size: 1.5rem;
@@ -75,6 +74,78 @@ div .presentation-button {
   font-size: 2rem;
 
   background-color: rgb(148, 212, 180);
+}
+
+#main {
+  display: none;
+}
+
+.main-grid {
+  height: 100%;
+  max-width: 1000px;
+  margin: 10px auto;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 10% 70% 10% 10%;
+  justify-content: center;
+  grid-column-gap: 30px;
+}
+
+.grid-column-all {
+  grid-column: 1 / -1;
+}
+
+.current-day {
+  font-size: 4rem;
+  text-align: center;
+}
+
+.montaje {
+  font-size: 1.4rem;
+}
+
+.montaje > p {
+  margin-top: 20px;
+  text-align: justify;
+}
+
+.montaje > div {
+  background-color: rgb(173, 167, 167);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 350px;
+  width: 100%;
+  height: 250px;
+}
+
+.select-day {
+  max-width: 1000px;
+  margin: 0 auto;
+  font-size: 1.4rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.change-day {
+  margin: 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 1.5rem;
+  color: white;
+
+  background-color: rgb(1, 24, 151);
+  cursor: pointer;
 }
 
 footer {
