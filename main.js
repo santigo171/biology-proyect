@@ -48,13 +48,13 @@ function getDescription(number) {
                 description3 = "16 de febrero de 2021, Los ajos han mostrado un progreso exitoso, 5 de ellos tienen un tallo sólido verde y todos tienen raíces, de igual forma procedo a cambiarles el agua.")
         case 3:
             return (
-            description1 = "Aún no se tiene información (Ese día no ha comenzado).",
+            description1 = "23 de febrero de 2021, De 6 ajos, 2 se quedaron en el fondo sin generar raíces o tallo. Los otros 4 han duplicado su altura, están sólidos y fuertes. Se ve un gran avance y a criterio de la profe ya hay que buscar tierra.",
             description2 = "16 de febrero de 2021, Los ajos no han presentado cambios, tampoco raíces, el agua sigue igual de limpia que cuando se cambió (Entonces la toalla ha resultado exitosa.",
-            description3 = "Aún no se tiene información (Ese día no ha comenzado).")
+            description3 = "23 de febrero de 2021, Los ajos han presentado un muy buen proceso de germinación. Todos tienen raíces y un tallo, aunque se evidencia que el tallo de los ajos del centro son mas altos. 2 ajos de una esquina tienen una parte como negra o morada.")
         case 4:
             return (
             description1 = "Aún no se tiene información (Ese día no ha comenzado).",
-            description2 = "Aún no se tiene información (Ese día no ha comenzado).",
+            description2 = "23 de febrero de 2021, El montaje no ha dado buenos resultados. Produce un fuerte y desagradable olor, el agua se encuentra realmente sucia. Los ajos parecen estar muertos, puesto que no tienen ni raíces ni tallo. Aunque no hay bichos o organismos que se vean a simple vista nadando por el agua o sobre la botella.",
             description3 = "Aún no se tiene información (Ese día no ha comenzado).")
         case 5:
             return (
