@@ -53,13 +53,13 @@ function getDescription(number) {
             description3 = "23 de febrero de 2021, Los ajos han presentado un muy buen proceso de germinación. Todos tienen raíces y un tallo, aunque se evidencia que el tallo de los ajos del centro son mas altos. 2 ajos de una esquina tienen una parte como negra o morada.")
         case 4:
             return (
-            description1 = "Aún no se tiene información (Ese día no ha comenzado).",
+            description1 = "2 de marzo de 2021, Los ajos siguen mostrando un buen crecimiento. algunos de ellos ya tienen raices, y un buen tallo. Sin embargo en el cuerpo se les ve un area morada y/o negra. A mi opinion ya están listos para ser plantados. Se le pedirá permiso a la profesora.",
             description2 = "23 de febrero de 2021, El montaje no ha dado buenos resultados. Produce un fuerte y desagradable olor, el agua se encuentra realmente sucia. Los ajos parecen estar muertos, puesto que no tienen ni raíces ni tallo. Aunque no hay bichos o organismos que se vean a simple vista nadando por el agua o sobre la botella.",
-            description3 = "Aún no se tiene información (Ese día no ha comenzado).")
+            description3 = "2 de marzo de 2021, Este es el mejor montaje de los 3, todos los ajos tienen un tallo alto y fuerte junto con raíces grandes, aunque los ajos tienen un color muy negro. Se le pregunta a la profe si se puede empezar a plantarlos.")
         case 5:
             return (
             description1 = "Aún no se tiene información (Ese día no ha comenzado).",
-            description2 = "Aún no se tiene información (Ese día no ha comenzado).",
+            description2 = "2 de marzo de 2021, el montaje no se ve en buenas condiciones, el agua está realmente sucia, tiene unas cosas blancas en su interior, los ajos parecen muertos y el olor es muy desagradable, se espera que para mañana se repita de nuevo el montaje.",
             description3 = "Aún no se tiene información (Ese día no ha comenzado).")
         case 6:
             return (
