@@ -58,13 +58,13 @@ function getDescription(number) {
             description3 = "2 de marzo de 2021, Este es el mejor montaje de los 3, todos los ajos tienen un tallo alto y fuerte junto con raíces grandes, aunque los ajos tienen un color muy negro. Se le pregunta a la profe si se puede empezar a plantarlos.")
         case 5:
             return (
-            description1 = "Aún no se tiene información (Ese día no ha comenzado).",
-            description2 = "2 de marzo de 2021, el montaje no se ve en buenas condiciones, el agua está realmente sucia, tiene unas cosas blancas en su interior, los ajos parecen muertos y el olor es muy desagradable, se espera que para mañana se repita de nuevo el montaje.",
-            description3 = "Aún no se tiene información (Ese día no ha comenzado).")
+            description1 = "9 de marzo de 2021, se plantan los ajos, estan quedando muy bonitos y muestran un buen crecimiento.",
+            description2 = "2 de marzo de 2021, el montaje no se ve en buenas condiciones, el agua está realmente sucia, tiene unas cosas blancas en su interior, los ajos parecen muertos y el olor es muy desagradable.",
+            description3 = "9 de marzo de 2021, se plantan los ajos, estan quedando muy bonitos y muestran un buen crecimiento.")
         case 6:
             return (
             description1 = "Aún no se tiene información (Ese día no ha comenzado).",
-            description2 = "Aún no se tiene información (Ese día no ha comenzado).",
+            description2 = "9 de marzo de 2021, siguen realmente muertos",
             description3 = "Aún no se tiene información (Ese día no ha comenzado).")
         case 7:
             return (
